@@ -15,8 +15,6 @@ public class dependentTaskOrder {
 	private String[] tempArray2={};
 	private String[] tempArray3={};
 	private int addposition=0;
-	private int addflag=0;
-	private int cyclicdependencyFlag=0;
 
 	public static void main(String[] args)  
 	{ 
